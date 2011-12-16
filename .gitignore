@@ -1,0 +1,17 @@
+.DS_Store
+*.class
+.svn
+.classpath
+.project
+*.jar
+.idea
+config
+blogracy.bat
+blogracy.sh
+build
+Azureus.app
+*.iml
+target
+*.log
+*.zip
+doc

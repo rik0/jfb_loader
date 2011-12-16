@@ -1,0 +1,16 @@
+A very simple project whose only purpose is to load the dataset:
+from:
+
+```
+@inproceedings{gjoka10_walkingfb,
+ author= {Minas Gjoka and Maciej Kurant and Carter T. Butts and Athina Markopoulou},
+ title= {{Walking in Facebook: A Case Study of Unbiased Sampling of OSNs}},
+ booktitle = {Proceedings of IEEE INFOCOM '10},
+ address = {San Diego, CA},
+ month = {March},
+ year = {2010}
+}
+```
+
+
+into a Neo4J db.
